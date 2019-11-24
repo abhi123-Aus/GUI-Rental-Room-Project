@@ -1,0 +1,12 @@
+R_108:1:Standard:Available:16/10/2019:air conditioning, cable TV, Wifi, fridge, electric kettle:Standard1.jpg
+R_108_CUS123_11072019:11/07/2019:16/07/2019:16/07/2019:495.00:0.00
+R_111:2:Standard:Available:16/10/2019:air conditioning, cable TV, Wifi, fridge, electric kettle:Standard2.jpg
+R_111_CUS239_07072019:07/07/2019:10/07/2019:11/07/2019:495.00:0.00
+R_110:4:Standard:Available:16/10/2019:air conditioning, cable TV, Wifi, fridge, electric kettle:Standard3.jpg
+R_110_CUS554_11072019:11/07/2019:16/07/2019:16/07/2019:495.00:0.00
+S_599:6:Suite:Rented:16/10/2019:large seating area, flat screen TV, outdoor balconies:Suite1.jpg
+S_599_CUS001_13072019:13/07/2019:16/07/2019:17/07/2019:2997.00:1099.00
+S_773:6:Suite:Rented:16/10/2019:large seating area, flat screen TV, outdoor balconies:Suite2.jpg
+S_773_CUS134_13072019:13/07/2019:16/07/2019:17/07/2019:2997.00:1099.00
+S_855:6:Suite:Rented:16/10/2019:large seating area, flat screen TV, outdoor balconies:Suite3.jpg
+S_855_CUS312_13072019:13/07/2019:16/07/2019:17/07/2019:2997.00:1099.00
